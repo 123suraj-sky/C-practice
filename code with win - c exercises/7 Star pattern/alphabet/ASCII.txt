@@ -1,0 +1,251 @@
+1 is 
+2 is 
+3 is 
+4 is 
+5 is 
+6 is 
+7 is 
+8 is 
+9 is 	
+10 is 
+
+11 is 
+12 is 
+13 is 
+14 is 
+15 is 
+16 is 
+17 is 
+18 is 
+19 is 
+20 is 
+21 is 
+22 is 
+23 is 
+24 is 
+25 is 
+26 is 
+27 is 
+28 is 
+29 is 
+30 is 
+31 is 
+32 is  
+33 is !
+34 is "
+35 is #
+36 is $
+37 is %
+38 is &
+39 is '
+40 is (
+41 is )
+42 is *
+43 is +
+44 is ,
+45 is -
+46 is .
+47 is /
+48 is 0
+49 is 1
+50 is 2
+51 is 3
+52 is 4
+53 is 5
+54 is 6
+55 is 7
+56 is 8
+57 is 9
+58 is :
+59 is ;
+60 is <
+61 is =
+62 is >
+63 is ?
+64 is @
+65 is A
+66 is B
+67 is C
+68 is D
+69 is E
+70 is F
+71 is G
+72 is H
+73 is I
+74 is J
+75 is K
+76 is L
+77 is M
+78 is N
+79 is O
+80 is P
+81 is Q
+82 is R
+83 is S
+84 is T
+85 is U
+86 is V
+87 is W
+88 is X
+89 is Y
+90 is Z
+91 is [
+92 is \
+93 is ]
+94 is ^
+95 is _
+96 is `
+97 is a
+98 is b
+99 is c
+100 is d
+101 is e
+102 is f
+103 is g
+104 is h
+105 is i
+106 is j
+107 is k
+108 is l
+109 is m
+110 is n
+111 is o
+112 is p
+113 is q
+114 is r
+115 is s
+116 is t
+117 is u
+118 is v
+119 is w
+120 is x
+121 is y
+122 is z
+123 is {
+124 is |
+125 is }
+126 is ~
+127 is 
+128 is €
+129 is 
+130 is ‚
+131 is ƒ
+132 is „
+133 is …
+134 is †
+135 is ‡
+136 is ˆ
+137 is ‰
+138 is Š
+139 is ‹
+140 is Œ
+141 is 
+142 is 
+143 is 
+144 is 
+145 is ‘
+146 is ’
+147 is “
+148 is ”
+149 is •
+150 is –
+151 is —
+152 is ˜
+153 is ™
+154 is š
+155 is ›
+156 is œ
+157 is 
+158 is 
+159 is Ÿ
+160 is  
+161 is ¡
+162 is ¢
+163 is £
+164 is ¤
+165 is ¥
+166 is ¦
+167 is §
+168 is ¨
+169 is ©
+170 is ª
+171 is «
+172 is ¬
+173 is ­
+174 is ®
+175 is ¯
+176 is °
+177 is ±
+178 is ²
+179 is ³
+180 is ´
+181 is µ
+182 is ¶
+183 is ·
+184 is ¸
+185 is ¹
+186 is º
+187 is »
+188 is ¼
+189 is ½
+190 is ¾
+191 is ¿
+192 is À
+193 is Á
+194 is Â
+195 is Ã
+196 is Ä
+197 is Å
+198 is Æ
+199 is Ç
+200 is È
+201 is É
+202 is Ê
+203 is Ë
+204 is Ì
+205 is Í
+206 is Î
+207 is Ï
+208 is Ğ
+209 is Ñ
+210 is Ò
+211 is Ó
+212 is Ô
+213 is Õ
+214 is Ö
+215 is ×
+216 is Ø
+217 is Ù
+218 is Ú
+219 is Û
+220 is Ü
+221 is İ
+222 is Ş
+223 is ß
+224 is à
+225 is á
+226 is â
+227 is ã
+228 is ä
+229 is å
+230 is æ
+231 is ç
+232 is è
+233 is é
+234 is ê
+235 is ë
+236 is ì
+237 is í
+238 is î
+239 is ï
+240 is ğ
+241 is ñ
+242 is ò
+243 is ó
+244 is ô
+245 is õ
+246 is ö
+247 is ÷
+248 is ø
+249 is ù
+250 is ú

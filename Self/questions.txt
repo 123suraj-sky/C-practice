@@ -1,0 +1,106 @@
+1 --> Find value from percentage
+2 --> Find percentage
+3 --> Sum of an A.P.(using the formuala for A.P.)
+4 --> Sum of an A.P.(using loops)
+5 --> Sum of an G.P.(using loops)
+6 --> Sum of an H.P.(using loops)
+7 --> Nth term of A.P.
+8 --> Nth term of G.P.
+9 --> Nth term of H.P.
+10 --> first positive term of an A.P.
+11 --> first negative term of an A.P.
+12 --> merge all above program from 3 to 9 and 17 in 12
+13 --> Sum of first n natrural number
+14 --> sum of square of first n natural number
+15 --> sum of cube of first n natural number
+16 --> sum of power k of first n natural number
+17 --> Sum of G.P. upto infinite term and to the value n
+18 --> matrix multiplication
+19 --> find inverse of a matrix
+20 --> all types of unit conversion
+21 --> find determinant of a given matrix
+22 --> entered equation is the form of 2nd degree of general equation of curve and then tell the user which shape is it.
+       Example:- Circle, Hyperbola ...
+       Hint:- By taking value of a, b, c, f, g, h and then forming the determinant to get the required solution
+                           | a h g |
+             determinant = | h b f |
+                           | g f c |
+23 --> create a dice by using random number generator
+24 --> create a coin by using random number generator
+25 --> mean of A.P.
+26 --> mean of G.P.
+27 --> mean of H.P.
+28 --> quadractic equation solver
+29 --> determinant of A.P., G.P. of natural numbers is zero?? --> determinant of G.P. is zero,
+       And what about A.P.
+30 --> adjoint of a matrix
+31 --> make a program such that it takes input of strings or any word and convert it to binary
+32 --> make a program of encoding & decoding, check if for encoding we make it such that it will change with the time
+33 --> make a program for finding the output of logic gates or bollean expression
+34 --> make a program for finding if the given number is perfect square or not
+35 --> word practice
+36 --> 
+37 --> pythagoras solver
+38 -->
+39 -->
+40 -->
+41 -->
+42 -->
+43 -->
+44 -->
+45 -->
+46 -->
+47 -->
+48 -->
+49 -->
+50 -->
+51 -->
+52 -->
+53 -->
+54 -->
+55 -->
+56 -->
+57 -->
+58 -->
+59 -->
+60 -->
+61 -->
+62 -->
+63 -->
+64 -->
+65 -->
+66 -->
+67 -->
+68 -->
+69 -->
+70 -->
+71 -->
+72 -->
+73 -->
+74 -->
+75 -->
+76 -->
+77 -->
+78 -->
+79 -->
+80 -->
+81 -->
+82 -->
+83 -->
+84 -->
+85 -->
+86 -->
+87 -->
+88 -->
+89 -->
+90 -->
+91 -->
+92 -->
+93 -->
+94 -->
+95 -->
+96 -->
+97 -->
+98 -->
+99 -->
+100 -->
